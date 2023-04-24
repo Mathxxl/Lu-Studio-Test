@@ -89,3 +89,7 @@ NavMesh/
 NavMeshPlus/
 
 #Unity Games Code
+
+#Archives
+*.rar
+*.zip
